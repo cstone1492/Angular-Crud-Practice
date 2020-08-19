@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular9-crud"
+    }
+  },
+  "defaultProject": "angular9-crud",
+  "cli": {
+    "analytics": false
+  }
 }
